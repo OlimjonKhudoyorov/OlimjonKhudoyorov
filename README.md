@@ -5,9 +5,9 @@
 
 - 💬 Ask me about   **[Java](https://www.java.com/en),  [Spring](https://spring.io),  [PostgresSQL](https://www.postgresql.org)**
 
-- 📫 How to reach me   **khudoyorovolimjon0302@gmail.com**
+- 📫 How to reach me   **khudoyorovolimjon0302@gmail.com**git add
 
-- 📄 Know about my experiences   [resume](https://github.com/OlimjonKhudoyorov/OlimjonKhudoyorov/Olimjon-Khudoyorov-Resume.pdf)
+- 📄 Know about my experiences   [resume](https://github.com/OlimjonKhudoyorov/OlimjonKhudoyorov/blob/main/Olimjon-Khudoyorov-Resume.pdf)
 
 - <h3 align="left">Connect with me: +998 94 750 26 06  </h3>
 
