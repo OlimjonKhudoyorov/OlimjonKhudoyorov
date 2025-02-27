@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<h1 align="center">Hi 👋,   I'm  Izzatullo</h1>
+<h1 align="center">Hi 👋,   I'm  Olimjon</h1>
 <h1 align="center">Java backend developer from Uzbekistan 🇺🇿 </h1>
 <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -10,9 +9,9 @@
 
 - 📄 Know about my experiences   [resume](https://drive.google.com/file/d/1OuRzIhmajwkGhqV0JgKyuhfws1l1YJ4i/view?usp=sharing)
 
-- <h3 align="left">Connect with me:    [+998 93 830 56 36]  </h3>
+- <h3 align="left">Connect with me:    [+998 94 750 26 06]  </h3>
 <p align="left">
-<a href="https://t.me/Izzatullo_o5" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatullo" height="30" width="35" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Izzatullo" height="30" width="35" /></a>
 </p>
 
 
