@@ -37,6 +37,7 @@
 
 ### 👉 Software & Tools
  <p>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
